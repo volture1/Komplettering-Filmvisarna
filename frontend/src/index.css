@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 15px;
+}
+
+footer {
+  padding: 10px;
+  background-color: #eee;
+  border-top: 1px solid gray;
+  text-align: center;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  min-height: 100vh;
+
+  display: grid;
+  grid-template-rows: 40px 1fr 40px;
+  
+}

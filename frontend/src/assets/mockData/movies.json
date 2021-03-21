@@ -1,0 +1,39 @@
+[
+  {
+    "Title": "Moneyball",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Runtime": "133 min",
+    "Genre": "Biography, Drama, Sport",
+    "Plot": "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Big Short",
+    "Year": "2015",
+    "Rated": "R",
+    "Runtime": "130 min",
+    "Genre": "Biography, Comedy, Drama, History",
+    "Plot": "In 2006-2007 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+    "Title": "Parasite",
+    "Year": "2019",
+    "Rated": "R",
+    "Runtime": "132 min",
+    "Genre": "Comedy, Drama, Thriller",
+    "Plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+  },
+  {
+    "Title": "The Irishman",
+    "Year": "2019",
+    "Rated": "R",
+    "Runtime": "209 min",
+    "Genre": "Biography, Crime, Drama",
+    "Plot": "An old man recalls his time painting houses for his friend, Jimmy Hoffa, through the 1950-70s.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg"
+  }
+
+]
