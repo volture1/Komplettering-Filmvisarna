@@ -5,13 +5,13 @@
       <h1>Date: {{ viewing.date }}</h1>
       <h1>Seats left: {{ viewing.seat_amount }}</h1>
       <form @submit.prevent="handleSubmit">
-        <p>Tickets:</p>
-        <input v-model="seat_amount" type="number" />
-        <p>Email:</p>
-        <input v-model="email" type="text" />
+        <p v-if="!show">Tickets:</p>
+        <input v-if="!show" v-model="seat_amount" type="number" />
+        <p v-if="!show">Email:</p>
+        <input v-if="!show" v-model="email" type="text" />
         <br />
         <button
-          v-if="viewing.seat_amount > 1"
+          v-if="viewing.seat_amount > 1 && seat_amount <= viewing.seat_amount && !show"
           v-on:click="completeBooking(), (show = true)"
           class="bekräfta"
         >

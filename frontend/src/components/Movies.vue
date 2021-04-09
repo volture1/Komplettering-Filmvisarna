@@ -8,7 +8,7 @@
     </div>
     <div class="movie-list">
       <div v-for="movie in movies" :key="movie.id" class="movie">
-        <img :src="movie.poster" alt="theres nothing"  />
+        <img :src="movie.poster" alt="theres nothing" @click="$router.push('/moviedetail/' + movie.id)" />
         <div class="movie-details">
           <h6>{{ movie.title }} | {{ movie.runtime }} | {{ movie.rated }}</h6>
         </div>

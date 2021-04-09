@@ -4,6 +4,7 @@
       |
       <router-link to="/dates">Dates</router-link>
       
+      
   </nav>
 </template>
 
