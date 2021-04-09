@@ -56,6 +56,7 @@ img {
 
 .movie:hover {
   opacity: 0.9;
+  cursor: pointer;
 }
 
 img {
