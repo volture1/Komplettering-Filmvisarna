@@ -61,11 +61,11 @@ export default {
 
 <style scoped>
 .viewing-list {
-  height: 100%;
+  
   width: 100%;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  
+  
+  
 }
 .container {
   width: 100%;
